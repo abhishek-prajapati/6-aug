@@ -1,4 +1,7 @@
 What is Git?
+
+To check the changes on your local: (this command lists out all the files which have some changes)
+
 Git is the distributed version control system. Git is responsible for keeping track of changes to content (usually source code files), and it provides mechanisms for sharing that content with others.
 
 Why do we use it?
